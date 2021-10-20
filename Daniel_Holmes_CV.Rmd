@@ -1,0 +1,302 @@
+---
+name: Daniel T
+surname: Holmes
+position: "MD, FRCPC, Clinical Professor"
+address: "Department of Pathology and Laboratory Medicine, University of British Columbia"
+phone: +1 778 874 2994
+profilepic: pic.jpg
+email: "dtholmes@mail.ubc.ca"
+twitter: drdanholmes
+github: drdanholmes
+www: labrtorian.com
+#linkedin: daniel-holmes-66214213
+date: "`r format(Sys.time(), '%B %Y')`"
+aboutme: "Medical Biochemist. Head and Medical Director of Pathology and Laboratory Medicine, Providence Health, Vancouver, BC. Interested in Clinical Endocrinology, Clinical Mass Spectrometry and Data Science in application to Laboratory Medicine."
+#output: vitae::moderncv
+output: vitae::awesomecv
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+# Education
+
+```{r}
+library(tibble)
+tribble(
+  ~ Degree, ~ Year, ~ Institution, ~ Where,
+  "BSc (Hons), Chemical Physics", "1990--1994", "University of Toronto", "Toronto, Canada",
+  "MD", "2001", "University of British Columbia", "Vancouver, Canada",
+  "Residency, Medical Biochemistry", "2006", "University of British Columbia", "Vancouver, Canada"
+) %>% 
+  detailed_entries(Degree, Year, Institution, Where)
+```
+
+# Professional Experience
+
+* Apr 2020--Present: Head and Medical Director, Department of Pathology and Laboratory Medicine, Providence Healthcare
+* Apr 2017--Apr 2020: Assistant Head, Department of Pathology and Laboratory Medicine, Providence Healthcare
+* Sep 2008--Mar 2020: Medical Leader, Clinical Chemistry, Department of Pathology and Laboratory Medicine, Providence Healthcare
+* Jul 2006--Present: Medical Biochemist, Department of Pathology and Laboratory Medicine, Providence Healthcare
+* Sep 1997--May 2006: Ran large private tutoring company ("Dan The Tutor") at the University of British Columbia focusing on exam preparation for Calculus 1--3, 100-level Physics, 100-level Chemistry and Organic Chemistry.
+
+# Teaching Experience
+
+* UBC Medical Undergraduate
+  + 2003: FMED 427, Ovarian Pathology
+  + 2003: FMED 427, Pathology of Uterus and Fallopian Tubes
+  + 2003--2015: FMED 425, Intracellular Lipid Metabolism
+  + 2004--2015: FMED 425, Lipid Lowering Therapies
+  + 2008--2015: FMED 425, Lipoprotein Metabolism
+  + 2006--2015: Week Chair of Lipid Week
+  + 2006, 2008--2021: Problem Based Learning Tutor: Endocrine Block
+* UBC Pathology Graduate Studies
+  + 2005: PATH 500A, Extracellular Lipid Metabolism
+* UBC Bachelor of Medical Laboratory Sciences
+  + 2007--2021: PATH 407, Carbon Monoxide, Cyanide and Pesticide Poisoning
+  + 2004--2010: PATH 406, Biochemical Investigation of Hypertension
+  + 2004--2021: PATH 406, Biochemical Markers of Cardiac Injury
+  + 2004--2021: PATH 406, Biochemistry of the Pituitary-Gonadal Axis
+* UBC PharmD Program
+  + 2006: PATH 548: Lipid Lowering Therapies
+  + 2007--2018: PATH 548, Investigation of Hepatocelluar Injury
+* General Pathology and Medical Biochemistry Residency Training Program
+  + 2005--2015: Markers of Hepatic Injury
+  + 2005--2015: Biochemistry of the Pituitary-Gonadal Axis
+  + 2005--2015: Extracellular Lipid Metabolism
+
+# Professional Affiliations
+
+* Canadian Association of Medical Biochemists
+* Canadian Society of Clinical Chemists
+* American Association of Clinical Chemists
+* Royal College of Physicians and Surgeons of Canada
+* Doctors of BC
+* BC Association of Laboratory Physicians
+* Christian Medical and Dental Society
+* Member of the Canadian Registry of Hippocratic Physicians
+
+# Committees 
+
+* 2016--present: Clinical Systems Transformation (Cerner Implementation) Laboratory Physician Champion
+* 2018--present: Medical Lead: PHSA Provincial Clinical Chemistry Request for Proposal
+* 2016--present: IFCC Committee for the Standardization of Measurement of Insulin and C-Peptide
+* 2018, 2022: American Association for Clinical Chemistry Annual Meeting Organizing Committee
+* 2014--2022: Mass Spectrometry & Applications to the Clinical Laboratory Scientific Committee Member
+* 2020: Mass Spectrometry & Applications to the Clinical Laboratory Scientific Committee, Chair
+* 2016--present: Member of the BC Guidelines and Protocols Committee ("GPAC") and acted as medical lead on the following documents
+  + [Hormone Testing – Indications and Appropriate Use](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/special-endocrine-testing)
+  + [Testosterone Testing](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/testosterone-testing)
+  + [Vitamin D Testing](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/vitamin-d-testing)
+  + [Thyroid Function Testing](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/thyroid-testing)
+* 2018: Chair of the Endocrine Division, American Association for Clinical Chemistry
+* 2016--present: Royal College of Physicians and Surgeons Medical Biochemistry Examination Committee
+* 2015--2019: Providence Health, Council for Excellence
+* 2010--2015: UBC Clinical Faculty Affairs Committee
+* 2010--2019: UBC Clinical Faculty Promotions Committee
+* 2008--2018: Supervisor, UBC Pathology Summer Research Program
+* 2006--2018: RCPSC Medical Biochemistry Residency Training Committee
+* 2013--2014: National Guidelines Committee for the Diagnosis of Testosterone Deficiency
+* 2021 Ad Hoc National Committee for incorporation of Aritificial Intelligence and Machine Learning into the Royal College Pathology and Laborotory Medicine Fellowship programs
+
+# Career Achievements
+
+* Initiated the now-internationally recognized St. Paul's Hospital Clinical Mass Spectrometry program which is one of the most sophisticated hospital-based clinical mass spectrometry program in North America. 
+  + the only laboratory in Canada performing thyroglobulin by SISCAPA-LC-MS/MS, able to overcome negative interferences caused by thyroglobulin autuantibodies in patients with papillary and follicular thyroid carcinoma. 
+  + the only laboratory in the world routinely performing immunoglobulin G subclasses by LC-MS/MS which overcomes analytical interferences seen in IgG4 related disease.
+  + the first laboratory in Canada to perform aldosterone and plasma renin activity by LC-MS/MS and reference lab for a major vendor's automated immunoassay analyzer.
+  + the only laboratory in Canada to perform 1,25 dihydroxyvitamin D by LC-MS/MS and reference lab for a major vendor's automated immunoassay analyzer.
+  + BC's sole provider of azole antifungal therapeutic drug monitoring (voriconazole, posaconazole, itraconazole)
+  + the only laboratory in Canada capable of quantitation of synthetic insulin analogues for investigation of forensic cases, accidental overdoses and intentional insulin misuse.
+  + [the only laboratory in Canada](https://doi.org/10.1016/j.clinms.2019.01.003) measuring infliximab by LC-MS/MS.
+  + Other assays rotuinely performed: Vitamin D, high sensitivity testosterone, androstenedione, 17-hydroxy-progesterone, plasma and urine cortisol.
+* Recruited 2 nationally prominent Medical Biochemists and 2 nationally prominent Clinical Chemists to the Providence Health Clinical Chemistry Team.
+* Acted as the medical lead for a multi-year Province-Wide Clinical Chemistry core and immunoassay analyzer procurement. Working with technical, administrative, supply chain and financial representatives throughout BC, negotiated savings of $4M annually in Vancouver Coastal Health and Providence Health alone.
+* Acted as the medical laboratory physician champion of the CST Cerner implementation, reviewing and modifying hundreds of clinical order sets, rectifying errors and inconsistencies in test selection, and creating rules for several thousand tests to define allowable period between repeat analyses.
+* Began tenure as Head of Department at Providence Health on 01-Apr-2020 and therefore led the department through the COVID response; personally co-wrote all software for COVID data automation in our laboratory with Dr. Mahdi Mobini, PhD.
+
+# Software Authorship
+
+* St. Paul's Hospital outpatient requisition scanning software
+  + Scans, finds patient identifiers, converts requisitions to PDF and stores by date and patient identifier, performs optical character recognition
+  + Allows storing and recovery of standing order requisitions
+
+* Q-See
+  + Recovers QC data from Sunquest Laboratory Information System and stores in SQL server on an hourly basis
+  + Serves up QC data for review using R Shiny application containerized using Docker
+  + Co-authored with Dr. Mahdi Mobini, PhD and Dr. Samuel Chorlton, MD
+  
+* Yoyo Monitor
+  + Provides real time dashboard feedback to St. Paul's Hospital and Mount Saint Joseph Hospital core laboratory staff on the pending specimen log for samples of urgent and stat priority.
+  + Allows rapid identification of samples requiring urgent attention.
+
+* Providence Health COVID Data Automation and Sample Pooling Software
+  + Wrote and/or oversaw automation scripts in Linux bash, R language and R Shiny to connect 3 Hamilton robotic liquid handlers, 4 RNA extractors and 4 thermal cyclers and 2 Linux servers.
+  + Software tracks samples between instruments whether analyzed in singleton or pools
+  + GUI allows sample review before release to laboratory information system using flat files
+  + Ended the practice of results reporting using manual transcription
+  
+* Mass Spectrometry Data Automation
+  + Wrote software to connect Hamilton robotic liquid handlers to SCIEX mass spectrometers
+  + Software pre-processes results for laboratory information system, handling results above and below the analytical measuring range, truncating decimals, adding interpretive comments.
+  + Passes results to the laboratory information system using flat files.
+  
+* Providence Health/Vancouver Coastal COVID Laboratory Dashboard
+  + Updates every 30 mins to give testing numbers, (neg/pos) and smoothed rates
+  + https://covid19.providencehealthcare.org/daily/
+  
+* cp-R software for method comparison of biochemical tests
+  + open source software written in pyQt4, python and R
+  + performs ordinary least squares, Deming or Passing Bablok regression
+  + https://sourceforge.net/projects/cprchempath/
+  + Over 3000 downloads from 81 countres
+  
+# Software Languages
+
+* R language: base R, tidyverse, RMarkdown, R Shiny
+* Experienced Linux bash, Linux server networking and heterogeneous networking of Linux and Windows
+* Markdown, LaTeX
+* Basic Python, SQL
+* Expect language for shell based robotic process automation
+* Autohotkey for Windows-based robotic process automation
+
+# Software Skills
+
+* Static report creation using base R,  LaTeX, or RMarkdown from:
+  + Excel/csv
+  + SQL
+  + Spark
+* Interactive dashboard creation using:
+  + Flexdashboard
+  + R Shiny and Shiny Server
+* Data automation and data cleansing using:
+  + Linux bash
+  + R language
+* Basic robotic process automation
+
+# Awards
+
+* Co-applicant on a Genome BC Genomics and Health: Personalized Medicine Program Grant. Biomarkers in Transplantation 3 (BiT3) Study. Funded at $2,572,918.
+
+* Co-Applicant on a Genome BC Applied Genomic Consortium Grant for the Development of Novel Biomarker Blood Tests for COPD (December 2012). Funded at $7M
+
+* Co-applicant Canadian Institutes of Health Research (2007): “Trace element status in chronic hemodialysis patients” Amount awarded (September 2007) $992,811; Term: Five years
+
+* Canadian Society for Clinical Chemistry Award for Research Excellence 2017
+
+# Presentations
+
+* *Doing more with R: Create your own Automated Reports and Dashboards*, AACC Annual Meeting (**Invited**), 26-Sep-2021
+* *Case Studies in Emerging Technologies in Pediatric Laboratory Medicine*, AACC Annual Meeting, 27-Sep-2021
+* *Mind the App: Application Development as a Solution to Unmet Needs in Laboratory Workflows*, AACC Annual Meeting, 30-Sep-2021
+* *Development of Automated Reports in Laboratory Medicine with R*, AACC Annual Meeting (**Invited**), 12-Dec-2021
+* *Breaking up with Excel, An Introduction to the R Statistical Programming Language*, MSACL annual scientific meeting (**Invited**), 2014--2022, twice annually in Palm Springs, USA and Salzburg Austria
+* *Applications of the R Language to Laboratory Medicine*, SIBioC 2020, the Italian Society of Clinical Chemistry (**Invited**), 06-Oct-2020
+* *Which Diagnostic Tests are Underutilized or Overutilized*, Langley Memorial Hospital Grand Rounds, 22-Sep-2020
+* *Using R to Produce Clinical Reports in the Patient Record*, R Medicine Conference, 29-Aug-2020 (**Invited**)
+* *Analytics in the Clinical Laboratory with R: An Expert Panel*, AACC Webinar, 20-Aug-2020 (**Invited**)
+* *Challenges in IGF1 Testing and Reporting*, Canadian Society of Endocrinology Annual Meeting, Winnipeg, 03-Oct-2019 (**Invited**)
+* *Getting Started with R for Laboratory Medicine*, AACC Annual Meeting, Anahiem CA, 03-Aug-2019 (**Invited**)
+* *Reproducible Research and Manuscript Preparation Using R and the Bookdown Package*, AACC Annual Meeting, Anahiem CA, 06-Aug-2019 (**Invited**)
+* *Developing Appropriate Suspicion about Endocrine Lab Results*, Association des Médicines Endocinologues du Québec, Quebec QC, 25-May-2019 (**Invited**)
+* *I can A1c clearly now: analytical variability in A1c measurement*. Diabetes Directors Seminar, Vancouver BC, 11-May-2019 (**Invited**)
+* *Mass Spectrometry for Protein Analytes*, Endocrinology Grand Rounds, University of Calgary, Calgary AB, 08-May-2019 (**Invited**)
+* *In Tests We Trust, but Should We?* Best Medicine Science Conference,  Vancouver, BC, 03-May-2019 (**Invited**)
+* *Murder and Munchausen's: Investigation in spontaneous hypoglycemia using LC-MS/MS*, Laboratory Medicine Congress & Exhibition, Korean Society for Clinical Chemistry, Seoul Korea, 31-Oct-2018 (**Invited**)
+* *Thyroglobulin by tandem mass spectrometry: How to do it. When you need it*, Laboratory Medicine Congress & Exhibition, Korean Society for Clinical Chemistry, Seoul Korea, 31-Oct-2018 (**Invited**)
+* *Protein mass spectrometry in routine clinical care--a year's experience with immunoglobulin subclasses and thyroglobulin* Clinical Mass Spectrometry Conference (CMSC), Beijing China 30-Apr-2018 (**Invited**) 
+* *Data Mining Routine Results for Reference Intervals: Common Errors and Modern Techniques. Mass Spectrometry*, MSACL.org Palm Springs USA, 25-Jan-2018 (**Invited**)
+* *Endocrine Applications requiring high sensitivity: performance of the new SCIEX Citrine^{TM} Mass Spectrometry System for measuring Thyroglobulin and 1,25 dihydroxyvitamin D* MSACL.org, Palm Springs USA, 24-Jan-2018
+* *The Future of Clinical Mass Spectrometry Panel Discussion* MSACL.org Palm Springs USA, 23-Jan-2018
+* *The Case Against Direct-to-Consumer Laboratory Testing* St. Paul's Hospital CME Conference, Vancouver, BC, 24-Nov-2017 (**Invited**)
+* *How and When to Order TSH, Estradiol and Testosterone* St. Paul's CME Hospital Conference, Vancouver, BC, 24-Nov-2017 (**Invited**)
+* *Test utilization monitoring - a strategy using open source tools* Clinical Biochemistry Conferece, Kuwait City, Kuwait, 04-Nov-2017 (**Invited**)
+* *How to determine with age dependent reference intervals: a survey of good and bad Ideas* Clinical Biochemistry Conferece, Kuwait City, Kuwait, 04-Nov-2017 (**Invited**)
+* *Investigation of Adult Hypoglycemia: for a laboratory perspective strategy* Clinical Biochemistry Conferece, Kuwait City, Kuwait, 05-Nov-2017 (**Invited**)
+* *Application of mass spectrometry in therapeutic drug monitoring* Clinical Biochemistry Conferece, Kuwait City, Kuwait, 05-Nov-2017 (**Invited**)
+* *Data Automation and Informatics with R: Application Showcase* AACC Annual Meeting, San Diego CA, 03-Aug-2017 (**Invited**)
+* *Debate: The Case Against Direct to Consumer Testing* Euro Med Lab, Athens Greece, 14-Jun-2017 (**Invited**)
+* *Laboratory Conundrums* Canadian Pediatric Endocrine Group, Vancouver, BC, 14-Feb-2017 (**Invited**)
+* *Solutions in Search of a Problem? Making Assays Matter for Patients* MSACL.org, Palm Springs, 25-Jan-2017 (**Invited**)
+* *Interferences in commercial immunoassays for aldosterone: the case for mass spectrometry* Asia Pacific Federation of Clinical Biochemistry Conference, Taipei Taiwan, 26-Nov-2016 (**Invited**)
+* *Are we shooting arrows where there is no target?* Endocrine Days Conference, Vancouver, BC, 21-Oct-2016 (**Invited**)
+* *What’s new in Thyroid Cancer? Ions. Thyroglobulin by Tandem Mass Spectrometry* BC Head and Neck Tumour Group, Vancouver, BC, 12-Oct-2016 (**Invited**)
+* *Modern methods for measuring IGFI*, Endocrine Grand Rounds, McGill University, Montreal QC, 06-Oct-2016 (**Invited**)
+* *Saline Suppression Testing and CYP 24A1 deficiency*, Endocrine/Medical Biochemistry Journal Club, McGill University, Montreal QC, 06-Oct-2016 (**Invited**)
+* *Varying Those Vexing Voltages: Compound Specific Tuning*, MSACL.org, Salzburg Austria, 14-Sep-2016 (**Invited**)
+* *Investigation of Insulin-Mediated Hypoglycemia in the Living and the Dead: The Role of LC-MS/MS* MSACL.org, Salzburg Austria, 15-Sep-2016 (**Invited Keynote Address**)
+* *Automation of the Clinical Mass Spectrometry Workflows*, Cherry Blossom Automation Conference, Seoul Korea, 21-Apr-2016 (**Invited Keynote Address**)
+
+* *Application of Mass Spectrometry to the Screening and Diagnosis of Primary Aldosteronism*, Severance Hospital Laboratory Medicine Rounds, Seoul Korea, 20-Apr-2016. (**Invited**)
+* *Don’t Manually Transcribe Your Results: The Poor Person’s Guide to LC-MS/MS LIS Interfacing with R*, MSACL.org Palm Springs USA, 25-Feb-2016
+* *Setting Your Mass Spec Team up for Success*, MSAC.org Palm Springs USA, 24-Feb-2016.
+* *Laboratory Investigation of Spontaneous Hypoglycemia*, Mayo Clinic, Rochester MN, 30-Sep-2015 (**Invited**)
+* *Best Practices and Current Applications of Clinical Mass Spectrometry*, AACC Mass Spectrometry Meeting, Chicago IL, 01-Oct-2015.
+* *I think therefore I R, an introduction to the R statistical programming language for Clinical Laboratorians*, AACC Annual Meeting Jul 7, 2015 
+* *Little Steps with Big Data*, AACC Annual Meeting, Philadelphia, PA, 5-Jul-2015
+* *Detecting and Managing Interferences and Contamination in Mass Spectrometric Analysis*, AACC National Webinar, 21-May-2015 (**Invited**)
+* *AACC/MSACL: Best Practices and Current Applications--Delivering accurate steroid results with LC-MS/MS: How owning an expensive bicycle does not make you a good cyclist* October 2014, (**Invited**)
+* *Detection of Allenic Norleucine, a Nephrotoxic Amino Acid from Amanita Smithiana and Related Mushrooms* MSACL.org Salzburg, Sep 2014
+* *Medical Biochemistry in the CKD patient* Canadian Society for Nephrology, Vancouver, BC, 23-Apr-2014 (**Invited**)
+* *Three Years Experience in Screening and Diagnosis of Primary Aldosteronism by LC-MS/MS*, MSACL.org, San Diego CA, 26-Feb-2014
+* *Rethinking Santa's Appearance. Laboratory Diagnosis of Cushing's Syndrome*, Canadian Society for Clinical Chemists National Webinar, 12-Dec-2013
+* *Analytical Considerations and Diagnostic Approaches to Addison's Disease and Cushing's Syndrome*, AACC Annual Meeting, Houston TX 31-Jul-2013.
+* *Laboratory Medicine Statistics: A Hands-on Interactive Session with Real Data*, AACC Annual Meeting, Houston TX, 29-Jul-2013
+* *Introduction to the R Statistical Computing Language*, Canadian Society for Clinical Chemists National Webinar, 10-Jan-2013 (**Invited**)
+* *Bay Area Chapter of the American Association of Clinical Chemistry: Investigation of Primary Aldosteronism*, San Francisco, CA 18-Oct-2012 (**Invited**)
+* *Plasma Renin Activity: An Achievable Venture in Proteomic Translation*, BC Proteomics Network Annual Meeting, 20-Feb-2012 (**Invited**)
+* *Laboratory Investigation of Primary Aldosteronism*, Canadian Society for Clinical Chemists National Webinar, 12-Jan-2012 (**Invited**)
+* *Unusual Causes of an Elevated Osmolal Gap: How to be Circumspect with Serum and Solvents*, Internal Medicine Grand Rounds, St. Paul's Hospital, Vancouver, BC, 01-Dec-2011
+* *Hold the Sun: Appropriate Vitamin D Testing and Treatment*, St. Paul's CME Hospital Conference, Vancouver, BC, 17-Nov-2011 (**Invited**)
+* *But I didn’t Inhale: Urine Drug Screen Pearls*, St. Paul's CME Hospital Conference, Vancouver, BC, 17-Nov-2011 (**Invited**)
+Adrenal Hypertension: Laboratory Diagnostic Challenges*, Canadian Association of Medical Biochemists Annual Meeting, Quebec QC, 13-Oct-2011 (**Invited**)
+* *The Use and Interpretation of Biochemical Testing for the Investigation of Adrenal Hypertension: Primary Aldosteronism. Laboratory Roll in Diagnosis*, AACC Annual Meeting, Atlanta, GA, Jul-2011
+* *Practical translational proteomics: Angiotensin I and II by immuno-MALDI MS* Annual Symposium of the BC Proteomics
+Network, Vancouver, BC, 25-Sep-2010
+* *PROOF Centre 2nd Annual Meeting: Biomarker Solutions for Personalized Medicine. “The Clinical Laboratory Approach” for assay validation*, Vancouver, BC, 26-May-2009
+* *HbA1c: Emergence as a Diagnostic Tool for Diabetes Mellitus*, Diabetes Directors Seminar, Vancouver, BC, 21-May-2010 (**Invited**)
+* *Parathyroid Hormone: everything that you did not need to know for the exam*, BC Endocrine Days, Vancouver, BC, 01-Oct-2010 (**Invited**)
+* *Vitamin D Analysis: Perspectives form the Laboratory*, BC Endocrine Days, Vancouver, BC, 01-Oct-2010 (**Invited**)
+* *What’s new in the literature: Effect of Aging on A1c levels in Individual without Diabetes*, Diabetes Directors Seminar, Vancouver, BC, 25-May-2009 (**Invited**)
+* *What’s new in the literature: Effect of Aging on A1c levels in Individual without Diabetes*,BC Endocrine Days, Vancouver, BC, 03-Oct-2008 (**Invited**)
+* *Primary Aldosteronism, Diagnostic Update*, Internal Medicine Grand Rounds, St. Paul's Hospital, Vancouver, BC, 11-Dec-2007, (**Invited**)
+* *Moles/Litre: Not the number of burrowing rodents that fit in a milk carton. Understanding the Technical aspects of Osmolality*, Neprhology Rounds, St Paul's Hospital, Vancouver, BC, 30-Aug-2007
+* *Research in Progress Rounds: The Effect of Analytical Variation on Calculated Laboratory Measures*, iCapture Centre Research in Progress Rounds, Vancouver, BC, 05-Feb-2007
+* *A Critical Look at eGFR*, Diabetes Directors Seminar, Vancouver, BC, 17-May-2007 (**Invited**)
+* *Unusual Lipidology Cases*, BC Childrens' Hospital Pathology Rounds, Vancouver, BC, 31-Oct-2006
+
+# Peer Reviewed Publications
+
+```{r}
+library(dplyr)
+bibliography_entries("Publications.bib") %>%
+  arrange(desc(issued), author)
+```
+
+# Book Chapters
+
+```{r}
+bibliography_entries("Books.bib") %>%
+  arrange(desc(issued), author)
+```
+
+# Letters to the Editor
+
+```{r}
+bibliography_entries("Letters.bib") %>%
+  arrange(desc(issued), author)
+```
+
+# Personal Interests
+
+* Distance running: former national level XC and middle distance track athlete
+* Cycling: [Zwift](https://www.zwift.com/) enthusiast
+* Canoeing: Algonquin Park and Bowron Lake Provincial Park fan
+* Flyfishing: I enjoy freshwater and saltwater flyfishing
+* Faith: I lead a Bible study fellowship group for Iranian immigrants to Canada
+* Family: Married with 4 Children aged 8--20 y
+
+
+
