@@ -55,10 +55,10 @@ tribble(
 * UBC Pathology Graduate Studies
   + 2005: PATH 500A, Extracellular Lipid Metabolism
 * UBC Bachelor of Medical Laboratory Sciences
-  + 2007--2021: PATH 407, Carbon Monoxide, Cyanide and Pesticide Poisoning
+  + 2007--Present: PATH 407, Carbon Monoxide, Cyanide and Pesticide Poisoning
   + 2004--2010: PATH 406, Biochemical Investigation of Hypertension
-  + 2004--2021: PATH 406, Biochemical Markers of Cardiac Injury
-  + 2004--2021: PATH 406, Biochemistry of the Pituitary-Gonadal Axis
+  + 2004--Present: PATH 406, Biochemical Markers of Cardiac Injury
+  + 2004--Present: PATH 406, Biochemistry of the Pituitary-Gonadal Axis
 * UBC PharmD Program
   + 2006: PATH 548: Lipid Lowering Therapies
   + 2007--2018: PATH 548, Investigation of Hepatocelluar Injury
@@ -81,7 +81,7 @@ tribble(
 # Committees 
 
 * 2016--present: Clinical Systems Transformation (Cerner Implementation) Laboratory Physician Champion
-* 2018--present: Medical Lead: PHSA Provincial Clinical Chemistry Request for Proposal
+* 2018--present: Medical Lead: PHSA Provincial Clinical Chemistry Equipment Procurement
 * 2016--present: IFCC Committee for the Standardization of Measurement of Insulin and C-Peptide
 * 2018, 2022: American Association for Clinical Chemistry Annual Meeting Organizing Committee
 * 2014--2022: Mass Spectrometry & Applications to the Clinical Laboratory Scientific Committee Member
