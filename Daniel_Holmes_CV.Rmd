@@ -187,12 +187,28 @@ tribble(
 * Canadian Society for Clinical Chemistry Award for Research Excellence 2017
 
 # Presentations
-
+* *Leadership in Laboratories* Clinical Biochemistry Conference, Kuwait City, Kuwait, 03-Mar-2024 (**Invited**)
+* *Data Mining to Improve Laboratory Utilization and Patient Care* Clinical Biochemistry Conference, Kuwait City, Kuwait, 03-Mar-2024 (**Invited**)
+* *Laboratory Automation/Hyperautomation* Clinical Biochemistry Conference, Kuwait City, Kuwait, 04-Mar-2024 (**Invited**)
+* *Advances and pitfalls in indirect reference intervals* Clinical Biochemistry Conference, Kuwait City, Kuwait, 04-Mar-2024 (**Invited**)
+* *As is our Pathology, so is our Practice: Cerner laboratory design effects on clinical practice.* 17-Nov-2023 PHSA Data Analytics Summit, Vancouver, BC,  (**Invited**)
+* *Informatics systems are essential tools for monitoring quality (error) in highly automated laboratories* 19-Jun-2023 POLQM Conference, Vancouver, BC,  (**Invited**)
+* *Indirect Reference Intervals: What's Real and What's Alchemy* 23-Mar-2023 ISLS11 Conference, Singapore (**Invited**)
+* *Delivering Best Possible Laboratory Medicine Care for Primary Aldosteronism and Related Conditions* 12-Dec-2022 NACCCA Rounds, Online (**Invited**)
+* *Adrenal Hypertension: Differential Diagnosis, Monitoring & Surveillance* 11-Nov-2022 Canadian Society for Endocrinology and Metabolism, Calgary Alberta (**Invited**)
+* *Delivering Best Possible Laboratory Medicine Care for Primary Aldosteronism and Related Conditions* 20-Oct-2022 Cleveland Clinic Department of Pathology and Laboratory Medicine Grand Rounds, Cleveland, OH, USA  (**Invited**)
+* *Data Science Applications in Laboratory Medicine*, 06-Oct-2022 American Association for Clinical Chemistry Special Presentation, Online  (**Invited**)
+* *IGG4 Related Disease Diagnosis and Monitoring using LC-MS/MS: Advantages over Nephelometry* 09-Sep-2022 Japanese Society for Biomedical Mass Spectrometry, Tokyo Japan (Remote Presentation) (**Invited**)
+* *Building a Sustainable, Scalable Hospital-Based Clinical Mass Spectrometry Program* 23-Aug-2022, International Conference of Biochemistry & Molecular Biology, Tehran Iran (Remote Presentation) (**Invited**)
+* *Mass Spectrometry and the Siren-Song of Indirect Reference Intervals*, 23-Jun-2022, ACLPS Conference, Seattle, WA, USA (**Invited**)
+* *Applications of the R Language to Laboratory Medicine*, 18-Feb-2022 Harbour UCLA Medical Center Laboratory Medicine Grand Rounds, Online (**Invited**)
+* *Update on Mass Spectrometry in Application to Pediatric Laboratory Medicine* 26-Nov-2021, International Congress of Paediatric Laboratory Medicine (Online) (**Invited**)
 * *Doing more with R: Create your own Automated Reports and Dashboards*, AACC Annual Meeting (**Invited**), 26-Sep-2021
 * *Case Studies in Emerging Technologies in Pediatric Laboratory Medicine*, AACC Annual Meeting, 27-Sep-2021
 * *Mind the App: Application Development as a Solution to Unmet Needs in Laboratory Workflows*, AACC Annual Meeting, 30-Sep-2021
 * *Development of Automated Reports in Laboratory Medicine with R*, AACC Annual Meeting (**Invited**), 12-Dec-2021
-* *Breaking up with Excel, An Introduction to the R Statistical Programming Language*, MSACL annual scientific meeting (**Invited**), 2014--2022, twice annually in Palm Springs, USA and Salzburg Austria
+* *Data Automation for Pooled NAT Testing of SARS COV2 -- Rapid Development with R*, 15-Apr-2021, CSCC National Roundtable (Online) (**Invited**), 15-Apr-2021
+* *Breaking up with Excel, An Introduction to the R Statistical Programming Language*, MSACL annual scientific meeting (**Invited**), 2014--2023, twice annually in Palm Springs, USA and Salzburg Austria
 * *Applications of the R Language to Laboratory Medicine*, SIBioC 2020, the Italian Society of Clinical Chemistry (**Invited**), 06-Oct-2020
 * *Which Diagnostic Tests are Underutilized or Overutilized*, Langley Memorial Hospital Grand Rounds, 22-Sep-2020
 * *Using R to Produce Clinical Reports in the Patient Record*, R Medicine Conference, 29-Aug-2020 (**Invited**)
@@ -214,8 +230,8 @@ tribble(
 * *How and When to Order TSH, Estradiol and Testosterone* St. Paul's CME Hospital Conference, Vancouver, BC, 24-Nov-2017 (**Invited**)
 * *Test utilization monitoring - a strategy using open source tools* Clinical Biochemistry Conferece, Kuwait City, Kuwait, 04-Nov-2017 (**Invited**)
 * *How to determine with age dependent reference intervals: a survey of good and bad Ideas* Clinical Biochemistry Conferece, Kuwait City, Kuwait, 04-Nov-2017 (**Invited**)
-* *Investigation of Adult Hypoglycemia: for a laboratory perspective strategy* Clinical Biochemistry Conferece, Kuwait City, Kuwait, 05-Nov-2017 (**Invited**)
-* *Application of mass spectrometry in therapeutic drug monitoring* Clinical Biochemistry Conferece, Kuwait City, Kuwait, 05-Nov-2017 (**Invited**)
+* *Investigation of Adult Hypoglycemia: for a laboratory perspective strategy* Clinical Biochemistry Conference, Kuwait City, Kuwait, 05-Nov-2017 (**Invited**)
+* *Application of mass spectrometry in therapeutic drug monitoring* Clinical Biochemistry Conference, Kuwait City, Kuwait, 05-Nov-2017 (**Invited**)
 * *Data Automation and Informatics with R: Application Showcase* AACC Annual Meeting, San Diego CA, 03-Aug-2017 (**Invited**)
 * *Debate: The Case Against Direct to Consumer Testing* Euro Med Lab, Athens Greece, 14-Jun-2017 (**Invited**)
 * *Laboratory Conundrums* Canadian Pediatric Endocrine Group, Vancouver, BC, 14-Feb-2017 (**Invited**)
