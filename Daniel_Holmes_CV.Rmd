@@ -37,6 +37,7 @@ tribble(
 # Professional Experience
 
 * Apr 2020--Present: Head and Medical Director, Department of Pathology and Laboratory Medicine, Providence Healthcare
+* Jun 2022--Present: Interim Medical Director, BC Provincial Toxicology Laboratory, Provincial Health Services Authority
 * Apr 2017--Apr 2020: Assistant Head, Department of Pathology and Laboratory Medicine, Providence Healthcare
 * Sep 2008--Mar 2020: Medical Leader, Clinical Chemistry, Department of Pathology and Laboratory Medicine, Providence Healthcare
 * Jul 2006--Present: Medical Biochemist, Department of Pathology and Laboratory Medicine, Providence Healthcare
@@ -187,6 +188,12 @@ tribble(
 * Canadian Society for Clinical Chemistry Award for Research Excellence 2017
 
 # Presentations
+* *Introduction to the R Statistical Programming Language*, University of Athens, Athens, Greece, 11/12-Nov-2024
+* *Tarzan and Jane at work Providence Health Vancouver* Canadian Diagnostics Executive Forum, Toronto, 21-Oct-2024 (**Invited**)
+* *Primary Aldosteronism: More common than you think* Making Evidence Matter for Everyone, Vancouver, 14-May-2024 (**Invited**)
+* *Systematic Ways to Avoid Fantasy and Self-Deception with Indirect Reference Interval Determination*, Seoul Korea, 25-Sep-2024 (**Invited**)
+* *Automating Digital Workflows in the Clinical Laboratory Using Robotic Process Automation*, 29-Jul-2024, Chicago, USA
+* *Systematic Ways to Avoid Fantasy and Self-Deception with Indirect Reference Interval Determination*, Chicago, USA 29-Jul-2024 
 * *Leadership in Laboratories* Clinical Biochemistry Conference, Kuwait City, Kuwait, 03-Mar-2024 (**Invited**)
 * *Data Mining to Improve Laboratory Utilization and Patient Care* Clinical Biochemistry Conference, Kuwait City, Kuwait, 03-Mar-2024 (**Invited**)
 * *Laboratory Automation/Hyperautomation* Clinical Biochemistry Conference, Kuwait City, Kuwait, 04-Mar-2024 (**Invited**)
