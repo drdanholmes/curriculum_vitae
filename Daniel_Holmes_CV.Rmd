@@ -81,6 +81,7 @@ tribble(
 
 # Committees 
 
+* 2024--present: PLMS Medical Biochemistry Advisory Committee
 * 2016--present: Clinical Systems Transformation (Cerner Implementation) Laboratory Physician Champion
 * 2018--present: Medical Lead: PHSA Provincial Clinical Chemistry Equipment Procurement
 * 2016--present: IFCC Committee for the Standardization of Measurement of Insulin and C-Peptide
@@ -188,6 +189,7 @@ tribble(
 * Canadian Society for Clinical Chemistry Award for Research Excellence 2017
 
 # Presentations
+* *Provincial Lab Medicine Service: AI in Laboratory Medicine*, Vancouver BC, 16-Apr-2024
 * *Introduction to the R Statistical Programming Language*, University of Athens, Athens, Greece, 11/12-Nov-2024
 * *Tarzan and Jane at work Providence Health Vancouver* Canadian Diagnostics Executive Forum, Toronto, 21-Oct-2024 (**Invited**)
 * *Primary Aldosteronism: More common than you think* Making Evidence Matter for Everyone, Vancouver, 14-May-2024 (**Invited**)

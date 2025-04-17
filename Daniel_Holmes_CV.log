@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2023.11.21)  24 JAN 2025 16:03
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2023.11.21)  17 APR 2025 12:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -926,49 +926,46 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/b/n' will be
 (Font)              scaled to size 10.95pt on input line 194.
 [1
 
-]
-Overfull \hbox (2.77715pt too wide) in paragraph at lines 383--386
+] [2]
+Overfull \hbox (2.77715pt too wide) in paragraph at lines 385--388
 []\TU/SourceSansPro(0)/m/n/10.95 Other assays rotuinely performed: Vitamin D, h
 igh sensitivity testosterone, androstenedione, 17-hydroxy-
  []
 
-[2]
-LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 16.0pt on input line 532.
 [3]
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/it' will be
-(Font)              scaled to size 10.95pt on input line 596.
+(Font)              scaled to size 10.95pt on input line 598.
 
-Overfull \hbox (4.54384pt too wide) in paragraph at lines 611--613
+Overfull \hbox (4.54384pt too wide) in paragraph at lines 616--618
 []\TU/SourceSansPro(0)/m/it/10.95 Automating Digital Workflows in the Clinical 
 Laboratory Using Robotic Process Automation\TU/SourceSansPro(0)/m/n/10.95 , 29-
 Jul-2024, Chicago,
  []
 
-
-Overfull \hbox (9.33629pt too wide) in paragraph at lines 638--641
+[4]
+Overfull \hbox (9.33629pt too wide) in paragraph at lines 643--646
 []\TU/SourceSansPro(0)/m/it/10.95 Indirect Reference Intervals: What’s Real and
  What’s Alchemy \TU/SourceSansPro(0)/m/n/10.95 23-Mar-2023 ISLS11 Conference, S
 ingapore (\TU/SourceSansPro(0)/b/n/10.95 Invited\TU/SourceSansPro(0)/m/n/10.95 
 ) 
  []
 
-[4]
-Overfull \hbox (12.01173pt too wide) in paragraph at lines 677--680
+
+Overfull \hbox (12.01173pt too wide) in paragraph at lines 682--685
 []\TU/SourceSansPro(0)/m/it/10.95 Update on Mass Spectrometry in Application to
  Pediatric Laboratory Medicine \TU/SourceSansPro(0)/m/n/10.95 26-Nov-2021, Inte
 rnational Congress
  []
 
 [5] [6]
-Overfull \hbox (7.32443pt too wide) in paragraph at lines 846--849
+Overfull \hbox (7.32443pt too wide) in paragraph at lines 851--854
 []\TU/SourceSansPro(0)/m/it/10.95 Best Practices and Current Applications of Cl
 inical Mass Spectrometry\TU/SourceSansPro(0)/m/n/10.95 , AACC Mass Spectrometry
  Meeting, Chicago
  []
 
 
-Overfull \hbox (2.03561pt too wide) in paragraph at lines 868--871
+Overfull \hbox (2.03561pt too wide) in paragraph at lines 873--876
 []\TU/SourceSansPro(0)/m/it/10.95 Medical Biochemistry in the CKD patient \TU/S
 ourceSansPro(0)/m/n/10.95 Canadian Society for Nephrology, Vancouver, BC, 23-Ap
 r-2014 (\TU/SourceSansPro(0)/b/n/10.95 Invited\TU/SourceSansPro(0)/m/n/10.95 ) 
@@ -976,13 +973,13 @@ r-2014 (\TU/SourceSansPro(0)/b/n/10.95 Invited\TU/SourceSansPro(0)/m/n/10.95 )
  []
 
 [7] [8] [9] [10]
-Underfull \hbox (badness 1681) in paragraph at lines 1318--1318
+Underfull \hbox (badness 1681) in paragraph at lines 1330--1330
 []|\TU/SourceSansPro(0)/m/n/10.95 Kline, G., & Holmes, D. T. (2017). Adrenal ve
 nous sampling for primary aldosteronism: Laboratory
  []
 
 
-Underfull \hbox (badness 1478) in paragraph at lines 1318--1318
+Underfull \hbox (badness 1478) in paragraph at lines 1330--1330
 \TU/SourceSansPro(0)/m/n/10.95 medicine best practice. \TU/SourceSansPro(0)/m/i
 t/10.95 Journal of Clinical Pathology\TU/SourceSansPro(0)/m/n/10.95 , \TU/Sourc
 eSansPro(0)/m/it/10.95 70\TU/SourceSansPro(0)/m/n/10.95 (11), 911–916. []$[][][
@@ -990,25 +987,25 @@ eSansPro(0)/m/it/10.95 70\TU/SourceSansPro(0)/m/n/10.95 (11), 911–916. []$[][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1343--1343
+Underfull \hbox (badness 10000) in paragraph at lines 1355--1355
 []|\TU/SourceSansPro(0)/m/n/10.95 Saeedi, R., Mojebi-Mogharar, A., Sandhu, S. K
 ., Dubland, J. A., Ford, J.-A., Yousefi,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1343--1343
+Underfull \hbox (badness 10000) in paragraph at lines 1355--1355
 \TU/SourceSansPro(0)/m/n/10.95 M., Pudek, M., Holmes, D. T., Erb, S. R., Kwan, 
 W. C. P., Kendler, D. L., & Yoshida,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1343--1343
+Underfull \hbox (badness 10000) in paragraph at lines 1355--1355
 \TU/SourceSansPro(0)/m/n/10.95 E. M. (2017). Http://www.scielo.org.mx/scielo.ph
 p?script=sci_abstract&pid=S1665-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1343--1343
+Underfull \hbox (badness 10000) in paragraph at lines 1355--1355
 \TU/SourceSansPro(0)/m/n/10.95 26812017000200207&lng=es&nrm=iso&tlng=en. \TU/So
 urceSansPro(0)/m/it/10.95 Annals of Hepatology\TU/SourceSansPro(0)/m/n/10.95 , 
 \TU/SourceSansPro(0)/m/it/10.95 16\TU/SourceSansPro(0)/m/n/10.95 (2), 207–214. 
@@ -1016,35 +1013,35 @@ urceSansPro(0)/m/it/10.95 Annals of Hepatology\TU/SourceSansPro(0)/m/n/10.95 ,
  []
 
 
-Underfull \hbox (badness 4518) in paragraph at lines 1386--1386
+Underfull \hbox (badness 4518) in paragraph at lines 1398--1398
 []|\TU/SourceSansPro(0)/m/n/10.95 Creary, S. E., Pyle-Eilola, A. L., Varga, E.,
  Cotten, S. W., S. Lorey, T., Holmes, D. T., & Greene,
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 1386--1386
+Underfull \hbox (badness 2027) in paragraph at lines 1398--1398
 \TU/SourceSansPro(0)/m/n/10.95 D. N. (2016). Method-dependent Discrepancies in 
 Fetal Hemoglobin Quantification in Patients With
  []
 
 [11] [12]
-Underfull \hbox (badness 2269) in paragraph at lines 1584--1584
+Underfull \hbox (badness 2269) in paragraph at lines 1596--1596
 []|\TU/SourceSansPro(0)/m/n/10.95 Wong, S. L., Priestman, A., & Holmes, D. T. (
 2014). Recurrent Hypoglycemia from Insulin Autoim-
  []
 
 [13] [14]
-Underfull \hbox (badness 1205) in paragraph at lines 1866--1866
+Underfull \hbox (badness 1205) in paragraph at lines 1878--1878
 []|\TU/SourceSansPro(0)/m/n/10.95 Gugten, J. G. van der, & Holmes, D. T. (2022)
 . Quantitation of renin activity in plasma using liquid
  []
 
 [15] [16]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2052.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2052.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2064.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2064.
 (./Daniel_Holmes_CV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 2052.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2052.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 2064.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2064.
 
 Package rerunfilecheck Info: File `Daniel_Holmes_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
@@ -1054,11 +1051,11 @@ LaTeX Warning: There were multiply-defined labels.
  ) 
 Here is how much of TeX's memory you used:
  32358 strings out of 479819
- 638211 string characters out of 5895845
- 1084600 words of memory out of 5000000
+ 638207 string characters out of 5895845
+ 1085642 words of memory out of 5000000
  48930 multiletter control sequences out of 15000+600000
  536686 words of font info for 113 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 67i,12n,109p,807b,864s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 67i,11n,109p,807b,864s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on Daniel_Holmes_CV.pdf (16 pages).
