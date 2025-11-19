@@ -38,6 +38,7 @@ tribble(
 
 * Apr 2020--Present: Head and Medical Director, Department of Pathology and Laboratory Medicine, Providence Healthcare
 * Jun 2022--Present: Interim Medical Director, BC Provincial Toxicology Laboratory, Provincial Health Services Authority
+* Mar 2023--Present: Medical Lead, Data Analytics for Clinical Chemistry, Provincial Lab Medicine Service
 * Apr 2017--Apr 2020: Assistant Head, Department of Pathology and Laboratory Medicine, Providence Healthcare
 * Sep 2008--Mar 2020: Medical Leader, Clinical Chemistry, Department of Pathology and Laboratory Medicine, Providence Healthcare
 * Jul 2006--Present: Medical Biochemist, Department of Pathology and Laboratory Medicine, Providence Healthcare
