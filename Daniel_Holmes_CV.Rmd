@@ -40,7 +40,7 @@ tribble(
 * Jun 2022--Present: Interim Medical Director, BC Provincial Toxicology Laboratory, Provincial Health Services Authority
 * Mar 2023--Present: Medical Lead, Data Analytics for Clinical Chemistry, Provincial Lab Medicine Service
 * Apr 2017--Apr 2020: Assistant Head, Department of Pathology and Laboratory Medicine, Providence Healthcare
-* Sep 2008--Mar 2020: Medical Leader, Clinical Chemistry, Department of Pathology and Laboratory Medicine, Providence Healthcare
+* Sep 2008--Mar 2020, Jun 2025--Present: Medical Leader, Clinical Chemistry, Department of Pathology and Laboratory Medicine, Providence Healthcare
 * Jul 2006--Present: Medical Biochemist, Department of Pathology and Laboratory Medicine, Providence Healthcare
 * Sep 1997--May 2006: Ran large private tutoring company ("Dan The Tutor") at the University of British Columbia focusing on exam preparation for Calculus 1--3, 100-level Physics, 100-level Chemistry and Organic Chemistry.
 
@@ -73,19 +73,17 @@ tribble(
 
 * Canadian Association of Medical Biochemists
 * Canadian Society of Clinical Chemists
-* American Association of Clinical Chemists
+* Association for Diagnostics and Laboratory Medicine
 * Royal College of Physicians and Surgeons of Canada
 * Doctors of BC
 * BC Association of Laboratory Physicians
-* Christian Medical and Dental Society
-* Member of the Canadian Registry of Hippocratic Physicians
 
 # Committees 
 
 * 2024--present: PLMS Medical Biochemistry Advisory Committee
-* 2016--present: Clinical Systems Transformation (Cerner Implementation) Laboratory Physician Champion
-* 2018--present: Medical Lead: PHSA Provincial Clinical Chemistry Equipment Procurement
-* 2016--present: IFCC Committee for the Standardization of Measurement of Insulin and C-Peptide
+* 2016--2024: Clinical Systems Transformation (Cerner Implementation) Laboratory Physician Champion
+* 2018--2021: Medical Lead: PHSA Provincial Clinical Chemistry Equipment Procurement
+* 2016--2024: IFCC Committee for the Standardization of Measurement of Insulin and C-Peptide
 * 2018, 2022: American Association for Clinical Chemistry Annual Meeting Organizing Committee
 * 2014--2022: Mass Spectrometry & Applications to the Clinical Laboratory Scientific Committee Member
 * 2020: Mass Spectrometry & Applications to the Clinical Laboratory Scientific Committee, Chair
@@ -162,8 +160,7 @@ tribble(
 * Experienced Linux bash, Linux server networking and heterogeneous networking of Linux and Windows
 * Markdown, LaTeX
 * Basic Python, SQL
-* Expect language for shell based robotic process automation
-* Autohotkey for Windows-based robotic process automation
+* Robotic Process Automation: Expect, Power Automate, Autohotkey, Playwright, Selenium
 
 # Software Skills
 
@@ -178,6 +175,7 @@ tribble(
   + Linux bash
   + R language
 * Basic robotic process automation
+* Effective use of Claude Code for App Development
 
 # Awards
 
@@ -190,8 +188,16 @@ tribble(
 * Canadian Society for Clinical Chemistry Award for Research Excellence 2017
 
 # Presentations
-* *Provincial Lab Medicine Service: AI in Laboratory Medicine*, Vancouver BC, 16-Apr-2024
-* *Introduction to the R Statistical Programming Language*, University of Athens, Athens, Greece, 11/12-Nov-2024
+* *Battle of the Tick-boxes: A Practical Tour of How We Reduced and Quantified Test Utilization in our Health Network*, Canadian Society for Clinical Chemistry Webinar, 19-Mar-2026 (**Invited**)
+* *LC-MS/MS for measurement of IgG subclasses*, Pathology Update 2026, Royal College of Pathologists of Australia, Syndey 06-Mar-2026 (**Invited**)
+* *AI applications in Chemical Pathology*, Pathology Update 2026, Royal College of Pathologists of Australia, Syndey 07-Mar-2026 (**Invited**)
+* *Continuous Reference Intervals in Paediatrics*, Pathology Update 2026, Royal College of Pathologists of Australia, Syndey 07-Mar-2026 (**Invited**)
+* *Opportunities and Challenges in using Real-world Big Data for Healthcare*, Korean External Quality Assessment Service 50th Anniversary Meeting, Seoul Korea, 27-Feb-2026 (**Invited**)
+* *Systematic Ways to Avoid Fantasy and Self-Deception with Indirect Reference Interval Determination*, Korean Society for Laboratory Medicine, Seoul Korea, 22-Oct-2025 (**Invited**)
+* *Different Approaches to the Determination of Reference Intervals - Direct and Indirect*, Association for Diagnostics and Laboratory Medicine, Chicago, 31-Jul-2025
+* *Robotic Process Automation: Applications to Laboratory Medicine*, Canadian Association of Medical Biochemists, Vancouver BC, 19-Jun-2025 (**Invited**)
+* *Integration of Tandem Mass Spectrometry (MS) into Routine Clinical Laboratory Workflows*, International Federation of Clinical Chemistry, Brussels, Belgium, 19-May-2025 (**Invited**)
+* *Introduction to the R Statistical Programming Language*, University of Athens, Athens, Greece, 11/12-Nov-2024 (**Invited**)
 * *Tarzan and Jane at work Providence Health Vancouver* Canadian Diagnostics Executive Forum, Toronto, 21-Oct-2024 (**Invited**)
 * *Primary Aldosteronism: More common than you think* Making Evidence Matter for Everyone, Vancouver, 14-May-2024 (**Invited**)
 * *Systematic Ways to Avoid Fantasy and Self-Deception with Indirect Reference Interval Determination*, Seoul Korea, 25-Sep-2024 (**Invited**)
@@ -218,7 +224,7 @@ tribble(
 * *Mind the App: Application Development as a Solution to Unmet Needs in Laboratory Workflows*, AACC Annual Meeting, 30-Sep-2021
 * *Development of Automated Reports in Laboratory Medicine with R*, AACC Annual Meeting (**Invited**), 12-Dec-2021
 * *Data Automation for Pooled NAT Testing of SARS COV2 -- Rapid Development with R*, 15-Apr-2021, CSCC National Roundtable (Online) (**Invited**), 15-Apr-2021
-* *Breaking up with Excel, An Introduction to the R Statistical Programming Language*, MSACL annual scientific meeting (**Invited**), 2014--2023, twice annually in Palm Springs, USA and Salzburg Austria
+* *Breaking up with Excel, An Introduction to the R Statistical Programming Language*, MSACL annual scientific meeting (**Invited**), 2014--2026, 1--2 time annually
 * *Applications of the R Language to Laboratory Medicine*, SIBioC 2020, the Italian Society of Clinical Chemistry (**Invited**), 06-Oct-2020
 * *Which Diagnostic Tests are Underutilized or Overutilized*, Langley Memorial Hospital Grand Rounds, 22-Sep-2020
 * *Using R to Produce Clinical Reports in the Patient Record*, R Medicine Conference, 29-Aug-2020 (**Invited**)
@@ -322,7 +328,7 @@ bibliography_entries("Letters.bib") %>%
 * Canoeing: Algonquin Park and Bowron Lake Provincial Park fan
 * Flyfishing: I enjoy freshwater and saltwater flyfishing
 * Faith: I lead a Bible study fellowship group for Iranian immigrants to Canada
-* Family: Married with 4 Children aged 8--20 y
+* Family: Married with 4 Children aged 12--24 y
 
 
 
